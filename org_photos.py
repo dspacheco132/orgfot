@@ -4,10 +4,10 @@ import exifread
 from datetime import datetime
 
 # Pasta de origem das fotos
-pasta_origem = './organizado'
+pasta_origem = './ORIGEM'
 
 # Pasta de destino para organizar as fotos
-pasta_destino = './organizadov3'
+pasta_destino = './DESTINO'
 
 # Função para obter a data de criação da foto a partir dos metadados EXIF
 
